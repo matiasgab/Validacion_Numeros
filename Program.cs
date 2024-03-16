@@ -18,6 +18,7 @@ namespace TPFinal_Lico
             int n1, mayorPar = 0, contadorImpar = 0, min = 0, contPrimo = 0;
             
             System.Console.WriteLine("Ingresar un numero: ");
+            System.Console.WriteLine("Bienvenido a la validación de números");
             n1 = int.Parse(Console.ReadLine());
 
             while (n1 != 0)
